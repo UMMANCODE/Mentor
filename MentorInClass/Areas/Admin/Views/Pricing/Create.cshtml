@@ -1,0 +1,120 @@
+﻿@model Pricing
+@{
+    ViewData["Title"] = "Create";
+}
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Form Elements</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                <li class="breadcrumb-item">Forms</li>
+                <li class="breadcrumb-item active">Elements</li>
+            </ol>
+        </nav>
+    </div><!-- End Page Title -->
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">General Form Elements</h5>
+
+                        <!-- General Form Elements -->
+                        <form method="post" asp-action="create">
+                            <div class="row mb-3">
+                                <label for="Title" class="col-sm-2 col-form-label">Text</label>
+                                <div class="col-sm-10">
+                                    <input asp-for="Title" class="form-control Title">
+                                    <span asp-validation-for=Title style="color: red"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <label for="Price" class="col-sm-2 col-form-label">Price</label>
+                                <div class="col-sm-10">
+                                    <input asp-for="Price" class="form-control Price">
+                                    <span asp-validation-for=Price style="color: red"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <label for="BtnText" class="col-sm-2 col-form-label">BtnText</label>
+                                <div class="col-sm-10">
+                                    <input asp-for="BtnText" class="form-control BtnText">
+                                    <span asp-validation-for=BtnText style="color: red"></span>
+                                </div>
+                            </div>
+                            <div class="row mb-3">
+                                <label for="BtnUrl" class="col-sm-2 col-form-label">BtnUrl</label>
+                                <div class="col-sm-10">
+                                    <input asp-for="BtnUrl" class="form-control BtnUrl">
+                                    <span asp-validation-for=BtnUrl style="color: red"></span>
+                                </div>
+                            </div>
+                            @*
+                            <div class="row mb-3">
+                            <label for="inputNumber" class="col-sm-2 col-form-label">File Upload</label>
+                            <div class="col-sm-10">
+                            <input class="form-control" type="file" id="formFile">
+                            </div>
+                            </div>
+                            *@
+
+                            <div class="row mb-3">
+                                <legend class="col-form-label col-sm-2 pt-0">Specialities</legend>
+                                <div class="col-sm-10">
+
+                                    <div class="form-check">
+                                        <input class="form-check-input" asp-for="isFeatured" id="isFeatured">
+                                        <label class="form-check-label" for="isFeatured">
+                                            Featured
+                                        </label>
+                                    </div>
+
+                                    <div class="form-check">
+                                        <input class="form-check-input" asp-for="isAdvanced" id="Advanced">
+                                        <label class="form-check-label" for="Advanced">
+                                            Advanced
+                                        </label>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row mb-3">
+                                <legend class="col-form-label col-sm-2 pt-0">Features</legend>
+                                <div class="col-sm-10">
+
+                                    @foreach (Feature feature in ViewBag.Features)
+                                    {
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" id="@feature.Name" value="@feature.Id" name="FeatureIds">
+                                            <label class="form-check-label" for="@feature.Name">
+                                                @feature.Name
+                                            </label>
+                                        </div>
+                                    }
+
+                                </div>
+                            </div>
+
+                            <div class="row mb-3">
+                                <label class="col-sm-2 col-form-label">Submit Button</label>
+                                <div class="col-sm-10">
+                                    <button type="submit" class="btn btn-primary">Submit Form</button>
+                                </div>
+                            </div>
+
+                        </form><!-- End General Form Elements -->
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+</main><!-- End #main -->

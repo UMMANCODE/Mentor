@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ummanmm\\Desktop\\Mentor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\ummanmm\\desktop\\mentor\\mentorinclass\\areas\\admin\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\ummanmm\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\pricing\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\pricing\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\ummanmm\\desktop\\mentor\\mentorinclass\\models\\pricingfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\models\\pricingfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\ummanmm\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\pricing\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\pricing\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\ummanmm\\desktop\\mentor\\mentorinclass\\areas\\admin\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\areas\\admin\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|c:\\users\\ummanmm\\desktop\\mentor\\mentorinclass\\models\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17C5036-CD7A-417E-B1C7-079804D4F7EA}|MentorInClass\\MentorInClass.csproj|solutionrelative:mentorinclass\\models\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Models\\Pricing.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Models\\Pricing.cs",
+              "ToolTip": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Models\\Pricing.cs",
+              "RelativeToolTip": "MentorInClass\\Models\\Pricing.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:21:50.054Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T17:22:02.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Pricing\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\Pricing\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Pricing\\Edit.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\Pricing\\Edit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T17:21:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAuwFoAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:37:06.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PricingFeature.cs",
+              "DocumentMoniker": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Models\\PricingFeature.cs",
+              "RelativeDocumentMoniker": "MentorInClass\\Models\\PricingFeature.cs",
+              "ToolTip": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Models\\PricingFeature.cs",
+              "RelativeToolTip": "MentorInClass\\Models\\PricingFeature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:27:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Pricing\\Create.cshtml",
+              "RelativeDocumentMoniker": "MentorInClass\\Areas\\Admin\\Views\\Pricing\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ummanmm\\Desktop\\Mentor\\MentorInClass\\Areas\\Admin\\Views\\Pricing\\Create.cshtml",
+              "RelativeToolTip": "MentorInClass\\Areas\\Admin\\Views\\Pricing\\Create.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwHcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T15:48:28.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

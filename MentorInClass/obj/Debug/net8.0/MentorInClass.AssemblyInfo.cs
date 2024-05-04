@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MentorInClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99782a64766659dca855e5e4be507a3b864867da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52a2cc499023a129ded171ad0631540d4e28c753")]
 [assembly: System.Reflection.AssemblyProductAttribute("MentorInClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MentorInClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
